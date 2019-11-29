@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import ClothBasket from "./components/clothBasket";
 import  { store } from "./store/index";
 import { Provider } from "react-redux";
